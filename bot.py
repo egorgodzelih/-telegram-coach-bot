@@ -81,7 +81,7 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 Если хочешь начать работу или остались вопросы — напиши мне напрямую.
 
-Твой Telegram: @egorrrr05
+Твой Telegram: @egorrrr05"""
     }
 
     await query.edit_message_text(
